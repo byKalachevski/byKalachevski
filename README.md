@@ -96,5 +96,9 @@ My strengths are system thinking, architecture design, domain decomposition, ser
 
 # Contact
 
-* Telegram: [@DWSDWS55](https://t.me/DWSDWS55)
-* GitHub: [github.com/byKalachevski](https://github.com/byKalachevski)
+# Contact
+
+* Website: https://multilaunches.com
+* Telegram: @byKalachevski
+* GitHub: https://github.com/byKalachevski
+
