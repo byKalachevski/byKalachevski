@@ -99,6 +99,6 @@ My strengths are system thinking, architecture design, domain decomposition, ser
 # Contact
 
 * Website: https://multilaunches.com
-* Telegram: @byKalachevski
+* Telegram: https://t.me/byKalachevski
 * GitHub: https://github.com/byKalachevski
 
