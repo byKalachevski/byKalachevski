@@ -1,4 +1,4 @@
-# Danil Kalachevski
+# Daniel Kalachevski
 
 **AI-Native Full-Stack Engineer** focused on building AI systems, automation platforms, real-time services, desktop applications, and scalable product architectures.
 
