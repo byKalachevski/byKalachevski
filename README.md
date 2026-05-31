@@ -1,61 +1,100 @@
 # Danil Kalachevski
 
-**AI-Native Full-Stack Engineer** focused on building AI agents, automation platforms, real-time services, and desktop/web applications.
+**AI-Native Full-Stack Engineer** focused on building AI systems, automation platforms, real-time services, desktop applications, and scalable product architectures.
 
-I design and build product-grade systems using AI-assisted engineering workflows, with strong focus on architecture, domain decomposition, service boundaries, typed contracts, automation, and production deployment.
+I design and orchestrate production-grade software ecosystems using AI-assisted engineering workflows with strong focus on architecture, modular decomposition, typed contracts, automation, integrations, and infrastructure.
 
-## Engineering Focus
+---
 
-* AI agents and RAG-style knowledge systems
-* Full-stack product architecture
-* FastAPI backend services
-* React / TypeScript frontend applications
-* Electron desktop applications
-* Real-time data services and WebSocket systems
-* Automation platforms and internal tools
-* Dockerized production environments
+# Core Engineering Areas
 
-## Tech Stack
+* AI-assisted software engineering
+* Full-stack product development
+* Backend architecture and API systems
+* AI agents and RAG-style workflows
+* Real-time systems and WebSocket services
+* Desktop application engineering
+* Infrastructure and Dockerized environments
+* Automation systems and integrations
+* Domain-driven modular architecture
+* Typed contracts and interface modeling
 
-**Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, REST API, WebSocket
-**Frontend:** TypeScript, React, Vite, SCSS, Feature-Sliced / domain-based architecture
-**Desktop:** Electron, Electron Builder, desktop/web shared architecture
-**AI Systems:** AI agents, prompt engineering, knowledge bases, retrieval pipelines, support automation
-**Infrastructure:** Docker, Docker Compose, Linux production environments, environment configuration, healthchecks
-**Architecture:** domain modeling, typed contracts, modular decomposition, service boundaries, system orchestration
+---
 
-## Featured Systems
+# Tech Stack
 
-### MultiLaunchess Platform
+## Backend
 
-A full-stack product ecosystem with backend services, frontend application, desktop launcher, screener service, support agent, authentication, subscriptions, admin tools, and production deployment.
+* Python
+* FastAPI
+* SQLAlchemy
+* PostgreSQL
+* Redis
+* REST API
+* WebSocket systems
+* JWT authentication
+* OAuth integrations
+* Async backend architecture
 
-**Stack:** Python, FastAPI, PostgreSQL, Redis, React, TypeScript, Electron, Docker
+## Frontend
 
-### AI Support Agent
+* TypeScript
+* React
+* Vite
+* SCSS
+* Feature-Sliced / domain-oriented architecture
+* Typed frontend systems
+* Shared UI architecture
 
-An AI-powered support worker with knowledge-base retrieval, intent classification, grounding policies, escalation logic, session summarization, and WebSocket integration with the backend.
+## Desktop Applications
 
-**Stack:** Python, FastAPI, RAG-style retrieval, KB pipelines, WebSocket, Docker
+* Electron
+* Electron Builder
+* Cross-platform desktop architecture
+* Desktop/Web shared runtime systems
 
-### Real-Time Screener Service
+## AI Engineering
 
-A real-time crypto screener service with exchange integrations, Redis caching/pub-sub, WebSocket streams, market-data aggregation, alerts, orderbook density detection, and impulse detection.
+* AI agents
+* Prompt engineering
+* RAG-style retrieval systems
+* Knowledge-base pipelines
+* AI orchestration
+* Semantic workflow design
+* Context engineering
+* Support automation systems
 
-**Stack:** Python, FastAPI, Redis, WebSocket, Binance / Bybit APIs, Docker
+## Infrastructure & DevOps
 
-### Office AI
+* Docker
+* Docker Compose
+* Linux production environments
+* Environment configuration
+* Healthchecks
+* Deployment workflows
+* Service orchestration
 
-An AI Office Control Center with agent interface, chat UI, editor state/actions, custom rendering logic, layout serialization, and desktop packaging.
+## System Design & Architecture
 
-**Stack:** TypeScript, React, Electron, Vite, AI agents, WebSocket
+* Modular decomposition
+* Domain modeling
+* Typed contracts
+* Service boundaries
+* Data-flow orchestration
+* Scalable architecture design
+* Product ecosystem engineering
 
-## How I Work
+---
 
-I use an AI-assisted engineering workflow to design, build, and iterate on complex systems.
-My strength is in product architecture, system decomposition, domain modeling, typed interfaces, service orchestration, and turning ideas into working software ecosystems.
+# Engineering Approach
 
-## Contact
+I work in an AI-assisted engineering workflow focused on designing scalable systems, orchestrating complex software ecosystems, structuring modular architectures, and transforming product ideas into production-ready platforms.
+
+My strengths are system thinking, architecture design, domain decomposition, service orchestration, typed interface modeling, automation workflows, and scalable product engineering.
+
+---
+
+# Contact
 
 * Telegram: [@DWSDWS55](https://t.me/DWSDWS55)
 * GitHub: [github.com/byKalachevski](https://github.com/byKalachevski)
